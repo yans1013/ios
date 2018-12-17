@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>陕西省</key>
+	<array>
+		<string>西安市</string>
+		<string>汉中市</string>
+		<string>咸阳市</string>
+	</array>
+	<key>湖南省</key>
+	<array>
+		<string>怀化市</string>
+		<string>张家界市</string>
+		<string>长沙市</string>
+	</array>
+</dict>
+</plist>
